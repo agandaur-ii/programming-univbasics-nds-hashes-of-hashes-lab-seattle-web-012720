@@ -62,12 +62,12 @@ def naming_system
    PORTION_4: {
    label: "Species",
    sub_category: nil
-      }
-   },
-   
-    PORTION_2: {
+      },
+      
+       PORTION_2: {
    label: "Order"
     }
+   }
     
   
 end
