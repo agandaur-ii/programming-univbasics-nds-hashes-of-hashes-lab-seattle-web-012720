@@ -58,15 +58,17 @@ def naming_system
     label: "Genus",
      }
     },
+    
+        PORTION_2: {
+   label: "Order"
+    },
  
    PORTION_4: {
    label: "Species",
    sub_category: nil
-      },
+      }
       
-       PORTION_2: {
-   label: "Order"
-    }
+   
    }
     
   
