@@ -68,5 +68,7 @@ def naming_system
    sub_category: nil
       }
     }
+    
+    return new_hash
 
 end
