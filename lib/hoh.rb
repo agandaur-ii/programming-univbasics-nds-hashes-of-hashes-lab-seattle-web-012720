@@ -69,6 +69,5 @@ def naming_system
       }
    }
     
-    return new_hash
-
+  
 end
