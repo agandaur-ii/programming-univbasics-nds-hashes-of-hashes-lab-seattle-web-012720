@@ -52,10 +52,6 @@ def naming_system
      }
     },
  
-   PORTION_2: {
-   label: "Order"
-    },
- 
    PORTION_3: {
    label: "Family",
    sub_category: {
@@ -67,7 +63,11 @@ def naming_system
    label: "Species",
    sub_category: nil
       }
-   }
+   },
+   
+    PORTION_2: {
+   label: "Order"
+    }
     
   
 end
